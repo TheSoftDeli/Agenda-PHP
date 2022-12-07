@@ -18,3 +18,7 @@ Implementare un’ agenda online in php contente nome e cognome dei compagni e l
 •	Considerare la chiave primaria formata da Cognome+Nome
 
 •	Salvare i dati su file CSV
+
+
+inspo 
+https://www.thoughtco.com/simple-address-book-2693840
